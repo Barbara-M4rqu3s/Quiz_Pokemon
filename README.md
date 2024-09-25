@@ -4,6 +4,8 @@ Fiz seguindo algumas instruções mas acabei por adaptar ao meu gosto!!
 
 Deixo aqui meu código com algumas anotações para melhor entendimento do ques está rolando :)
 
+Fiz utilizando HTML e CSS.
+
 <!DOCTYPE html>
 <html lang="pt-br">
   
